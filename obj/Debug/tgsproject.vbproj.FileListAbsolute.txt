@@ -1,0 +1,12 @@
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.vbproj.AssemblyReference.cache
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.Form1.resources
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.Resources.resources
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.vbproj.GenerateResource.cache
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.vbproj.CoreCompileInputs.cache
+C:\Users\Hilda Afifah\source\repos\tgsproject\bin\Debug\tgsproject.exe.config
+C:\Users\Hilda Afifah\source\repos\tgsproject\bin\Debug\tgsproject.exe
+C:\Users\Hilda Afifah\source\repos\tgsproject\bin\Debug\tgsproject.pdb
+C:\Users\Hilda Afifah\source\repos\tgsproject\bin\Debug\tgsproject.xml
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.exe
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.xml
+C:\Users\Hilda Afifah\source\repos\tgsproject\obj\Debug\tgsproject.pdb
